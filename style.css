@@ -1,0 +1,28 @@
+body {
+    background-color:rgb(163, 163, 230);
+}
+h1 {
+    color: rgb(243, 210, 210);
+    font-size: 3rem;
+}
+p {
+    color: rgb(21, 11, 52);
+}
+.poster {
+    text-align: center;
+    font-family: "Libre Baskerville",sans-serif;
+    text-transform: uppercase;
+    margin-top: 100px;
+    width: 50%;
+    margin-left: 25%;
+
+}
+img {
+    width: 100%;
+    border: 10px solid white;
+    border-radius: 15%;
+}
+.Ark {
+    color: azure;
+    background-color: rgb(125, 126, 182);
+}
